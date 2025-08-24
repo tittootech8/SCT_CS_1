@@ -16,7 +16,7 @@ It brings a simple yet professional **text-based GUI** for one of the oldest cry
 ---
 
 ## 📦 Installation & Setup
-step 1:Make sure you have **Bash** and **dialog** installed.  
+Make sure you have **Bash** and **dialog** installed.  
 ```bash
 # Ubuntu / Debian
 sudo apt-get install dialog -y
