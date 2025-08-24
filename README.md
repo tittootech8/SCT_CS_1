@@ -16,7 +16,7 @@ It brings a simple yet professional **text-based GUI** for one of the oldest cry
 ---
 
 ## 📦 Installation
-Make sure you have **Bash** and **dialog** installed.  
+step 1:Make sure you have **Bash** and **dialog** installed.  
 ```bash
 # Ubuntu / Debian
 sudo apt-get install dialog -y
@@ -26,3 +26,16 @@ sudo dnf install dialog -y
 
 # Arch Linux
 sudo pacman -S dialog
+
+Step 2:
+ Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/caesar-cipher-tool.git
+   cd caesar-cipher-tool
+
+Give execution permission to the script:
+   ```bash
+   chmod +x caesar_cipher_tool.sh
+Run the tool:
+   ```bash
+   ./caesar_cipher_tool.sh
