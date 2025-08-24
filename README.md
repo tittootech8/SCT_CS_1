@@ -28,7 +28,7 @@ sudo dnf install dialog -y
 sudo pacman -S dialog
 
 #Clone the repository:
-git clone https://github.com/your-username/caesar-cipher-tool.git
+git clone https://github.com/tittootech8/SCT_CS_1.git
 cd caesar-cipher-tool
 
 #Give execution permission to the script:
